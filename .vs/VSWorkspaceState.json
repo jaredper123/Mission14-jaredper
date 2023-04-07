@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\MoviesAPI",
+    "\\backend\\MoviesAPI\\Controllers"
+  ],
+  "SelectedNode": "\\backend\\MoviesAPI\\Controllers\\MovieController.cs",
+  "PreviewInSolutionExplorer": false
+}
